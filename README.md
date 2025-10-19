@@ -1,1 +1,6 @@
-# interview_prep_ash_ep
+---
+description: Notes for interview prep and other things in general.
+---
+
+# About
+
