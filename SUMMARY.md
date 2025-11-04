@@ -123,3 +123,5 @@
     * [Magic Methods](programming-languages/python/magic-methods.md)
     * [MRO](programming-languages/python/mro.md)
     * [Metaclasses](programming-languages/python/metaclasses.md)
+* [Common](common/README.md)
+  * [Docker](common/docker.md)
